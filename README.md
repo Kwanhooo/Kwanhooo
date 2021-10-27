@@ -3,4 +3,4 @@
 I am a student.
 
 - Read more about [me](http://kwanhooo.github.io)
-- My blog is [here](120.78.235.195)
+- My blog is [here](http://120.78.235.195)
