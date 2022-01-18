@@ -18,7 +18,7 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Acoustic Front End Processing; 
-- 🤔 I’m looking for help with Speech Processing and Signal Processing 😭;
+- 🤔 I’m looking for help with Java Study 😭;
 - 💬 Ask me about anything ! ;
 - 📫 How to reach me: kwanhooo@foxmail.com;
 
@@ -29,5 +29,5 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![JusperLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwanhooo&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![JusperLee](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwanhooo&hide=html&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Kwanhooo&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwanhooo&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwanhooo&theme=monokai&count_private=true&include_all_commits=true)
