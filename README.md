@@ -18,7 +18,7 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Acoustic Front End Processing; 
-- 🤔 I’m looking for help with Java Study 😭;
+- 🤔 I’m looking for help with Java 😭;
 - 💬 Ask me about anything ! ;
 - 📫 How to reach me: kwanhooo@foxmail.com;
 
