@@ -13,7 +13,7 @@
 
 Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am studying at [@Central South University](https://www.csu.edu.cn/).
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" height="300" src="http://5b0988e595225.cdn.sohucs.com/images/20180112/eb7e18de42d647db91e99aaa915468e2.gif"/>
 
 **Talking about Personal Stuffs:**
 
