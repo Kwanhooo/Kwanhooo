@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.zhihu.com/people/hao-hao-57-40">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
+  <img align="left" alt="Zhihu" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Zhihu-512.png" />
 </a>
 
 
@@ -24,7 +24,7 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
