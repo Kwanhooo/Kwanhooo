@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Kwanhooo !](http://120.78.235.195) 
+### Hi there 👋🏽, I'm [Kwanhooo !](http://120.78.235.195) 
 
 <br/>
 
