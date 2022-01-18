@@ -11,7 +11,7 @@
 
 <br/>
 
-Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am studying at Central South University.
+Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am studying at [@Central South University](https://www.csu.edu.cn/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
