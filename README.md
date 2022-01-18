@@ -29,5 +29,7 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**Statistics:** 
+
 ![](https://github-readme-stats.vercel.app/api?username=Kwanhooo&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwanhooo&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kwanhooo&theme=monokai&count_private=true&include_all_commits=true)
