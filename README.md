@@ -5,6 +5,9 @@
 <a href="https://www.zhihu.com/people/hao-hao-57-40">
   <img align="left" alt="Zhihu" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Zhihu-512.png" />
 </a>
+<a href="https://space.bilibili.com/76717041">
+  <img align="left" alt="Bilibili" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_bilibili-512.png" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Kwanhooo.Kwanhooo)
