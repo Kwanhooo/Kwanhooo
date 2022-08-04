@@ -20,8 +20,8 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Acoustic Front End Processing; 
-- 🤔 I’m looking for help with Java 😭;
+- 🌱 I’m currently learning Vuejs and Redis; 
+- 🤔 I’m looking for help 😭;
 - 💬 Ask me about anything ! ;
 - 📫 How to reach me: kwanhooo@foxmail.com;
 
