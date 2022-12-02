@@ -1,4 +1,4 @@
-### Hi there 👋🏽, I'm [Kwanhooo !](https://0xcafebabe.cn) 
+### Hi there 👋, I'm [Kwanhooo !](https://0xcafebabe.cn) 
 
 <br/>
 
@@ -20,15 +20,17 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Vuejs and Redis; 
+- 🌱 I’m currently learning TypeScript and some Middleware; 
 - 🤔 I’m looking for help 😭;
 - 💬 Ask me about anything ! ;
-- 📫 How to reach me: kwanhooo@foxmail.com;
+- 📫 How to reach me: kwanho@0xcafebabe.cn;
 
 **Languages and Tools:**  
 
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
-<code><img height="30" src="https://cdn0.iconfinder.com/data/icons/file-format-programming-languages-scripts-flat-fil/64/file_format_document-15-128.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png"></code>
 
 **Statistics:** 
