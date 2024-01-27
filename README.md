@@ -20,7 +20,7 @@ Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am 
 - 🌱 I’m currently learning Computer Vision and Machine Learning; 
 - 🤔 I’m looking for help;
 - 💬 Ask me about anything! ;
-- 📫 How to reach me: kwanhooo@foxmail.com;
+- 📫 How to reach me: see my profile;
 
 **Languages and Tools:**  
 
