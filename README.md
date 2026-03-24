@@ -1,26 +1,15 @@
-### Hi there 👋, I'm [Kwanhooo !](https://0xcafebabe.cn) 
+### Hi there 👋
 
-<br/>
-
-<a href="https://space.bilibili.com/76717041" target="_blank">
-  <img align="left" alt="Bilibili" width="22px" src="https://asset.0xcafebabe.cn/bilibili.png" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Kwanhooo.Kwanhooo)
-
-<br/>
-
-Hi, I'm Kwanhooo, a Student 🎒 major in Software Engineering, currently, I am studying at [@Central South University](https://www.csu.edu.cn/).
+I'm [Kwanhooo](https://0xcafebabe.cn), a master student 🎒 at [@Central South University](https://www.csu.edu.cn/).
 
   <img align="right" alt="GIF" height="250" src="https://s2.loli.net/2022/01/18/U3qipmn6hGwe9OD.gif"/>
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Computer Vision and Machine Learning; 
-- 🤔 I’m looking for help;
-- 💬 Ask me about anything! ;
-- 📫 How to reach me: see my profile;
+- 🌱 My research focuses on computer vision, causal inference, and medical image analysis.
+- 🤔 I specialize in backend development, and I also have some experience with frontend development.
+- 📫 I am currently an intern at Shopee CNDC 🦐
+- 💬 Ask me about anything!
 
 **Languages and Tools:**  
 
