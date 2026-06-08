@@ -8,7 +8,7 @@ I'm [Kwanhooo](https://0xcafebabe.cn), a master student 🎒 at [@Central South 
 
 - 🌱 My research focuses on computer vision, causal inference, and medical image analysis.
 - 🤔 I specialize in backend development, and I also have some experience with frontend development.
-- 📫 I am currently an intern at Shopee CNDC 🦐
+- 📫 I am currently an intern at ByteDance
 - 💬 Ask me about anything!
 
 **Languages and Tools:**  
